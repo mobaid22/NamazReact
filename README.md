@@ -34,3 +34,32 @@ npm install
 
 # Uygulamayı başlatın
 npm start
+
+🔧 Özellikler
+Şehir seçimi ile anlık namaz vakitlerini görüntüleme
+
+Gerçek zamanlı tarih ve saat gösterimi
+
+Mobil cihazlarla uyumlu responsive tasarım
+
+Modern ve sade kullanıcı arayüzü
+
+🛠️ Kullanılan Teknolojiler
+React
+
+Axios
+
+CollectAPI - Namaz Vakitleri
+
+HTML / CSS / JavaScript (ES6)
+
+🤝 Katkıda Bulun
+Katkılarınızı memnuniyetle karşılıyoruz! Fork yapın, geliştirin, pull request gönderin 🚀
+
+📄 Lisans
+Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
+
+👨‍💻 Geliştirici
+Mohammed
+
+GitHub: github.com/kullaniciadi
