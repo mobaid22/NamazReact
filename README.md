@@ -1,65 +1,70 @@
 # 🕌 Namaz React App
 
-Bu proje, **React** kullanılarak hazırlanmış basit ve kullanıcı dostu bir **Namaz Vakitleri Uygulamasıdır**. Kullanıcılar, bulundukları şehri seçerek güncel namaz vakitlerine erişebilir. Arayüz, sade ve modern tasarımla oluşturulmuştur.
+Bu proje, **React.js** kullanılarak geliştirilmiş bir **Namaz Vakitleri Uygulamasıdır**. Kullanıcılar şehir seçerek günlük namaz vakitlerini öğrenebilir. Uygulama sade, anlaşılır ve mobil uyumlu bir arayüze sahiptir.
 
 ---
 
 ## 📸 Ekran Görüntüleri
 
-> 📝 **Not:** Aşağıdaki her başlık için birer ekran görüntüsü alıp buraya eklemen yeterli. GitHub'a yükledikten sonra linkini bu bölüme yerleştirebilirsin.
+> 📝 **Not:** Aşağıdaki yerlere kendi aldığın ekran görüntülerini eklemelisin.
 
 ### 🏠 Ana Sayfa
 
-![Ana Sayfa Görseli buraya gelecek](EKRAN_GÖRÜNTÜSÜ_LINKİ)
+![Ana Sayfa Görseli](./images/ana_sayfa.png)
 
-### 🕋 Şehir Seçimi ve Namaz Vakitleri
+### 📍 Şehir Seçimi Sonrası
 
-![Namaz Vakitleri Görseli buraya gelecek](EKRAN_GÖRÜNTÜSÜ_LINKİ)
+![Namaz Vakitleri Görseli](./images/namaz_vakitleri.png)
+
+### 📱 Mobil Görünüm
+
+![Mobil Görünüm Görseli](./images/mobil_gorunum.png)
 
 ---
 
 ## 🚀 Başlarken
 
-Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin:
+Bu projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları takip edin:
 
 ```bash
-# Depoyu klonlayın
+# Projeyi klonlayın
 git clone https://github.com/kullaniciadi/NamazReact.git
 
-# Klasöre geçin
+# Proje dizinine geçin
 cd NamazReact
 
-# Gerekli paketleri yükleyin
+# Gerekli bağımlılıkları yükleyin
 npm install
 
 # Uygulamayı başlatın
 npm start
+```
 
-🔧 Özellikler
-Şehir seçimi ile anlık namaz vakitlerini görüntüleme
+> Uygulama tarayıcınızda `http://localhost:3000` adresinde çalışacaktır.
 
-Gerçek zamanlı tarih ve saat gösterimi
+---
 
-Mobil cihazlarla uyumlu responsive tasarım
+## 🔧 Özellikler
 
-Modern ve sade kullanıcı arayüzü
+- Şehir seçimi ile anlık namaz vakitlerini görüntüleme
+- Gerçek zamanlı tarih ve saat gösterimi
+- Mobil cihazlarla uyumlu responsive tasarım
+- Modern ve sade kullanıcı arayüzü
 
-🛠️ Kullanılan Teknolojiler
-React
+---
 
-Axios
+## 🛠️ Kullanılan Teknolojiler
 
-CollectAPI - Namaz Vakitleri
+- [React](https://reactjs.org/)
+- [Axios](https://axios-http.com/)
+- [CollectAPI - Namaz Vakitleri](https://collectapi.com/)
+- HTML / CSS / JavaScript (ES6)
 
-HTML / CSS / JavaScript (ES6)
 
-🤝 Katkıda Bulun
-Katkılarınızı memnuniyetle karşılıyoruz! Fork yapın, geliştirin, pull request gönderin 🚀
 
-📄 Lisans
-Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına göz atabilirsiniz.
+---
 
-👨‍💻 Geliştirici
-Mohammed
+## 👨‍💻 Geliştirici
 
-GitHub: github.com/kullaniciadi
+- **Mohammed**
+- GitHub: [github.com/kullaniciadi](https://github.com/kullaniciadi)
